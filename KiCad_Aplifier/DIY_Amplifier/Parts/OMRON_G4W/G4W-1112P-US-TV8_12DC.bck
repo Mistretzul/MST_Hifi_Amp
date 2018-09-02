@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G4W-1112P-US-TV8_12DC
+D Relay SPST-NO PCB TV8,15A 12Vdc Omron SPNO PCB Mount Non-Latching Relay, 12V dc Coil
+F https://www.omron.com/ecb/products/pdf/en-g4w.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CustomPowerLib)(type Legacy)(uri D:/Projects/KiCad_Aplifier/CustomPowerLib.lib)(options "")(descr ""))
+)
